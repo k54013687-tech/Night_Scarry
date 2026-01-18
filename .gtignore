@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env
+
+# Firebase / secrets (plaintext)
+*.json
+service_account.json
+firebase.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
